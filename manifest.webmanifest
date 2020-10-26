@@ -1,0 +1,21 @@
+{
+"name": "DSTV Installer App",
+"short_name": "DishInstaller",
+"description": "Same day friendly and proffessional service",
+"icons": [
+{
+"src": "https://1.bp.blogspot.com/-IjxDVlFTFc8/X5YWS_ITDGI/AAAAAAAACxQ/S-osC8enszw2m2dDtEceXNa3h5sHRmldACLcBGAsYHQ/s0/android-chrome-192x192-min.png",
+"type": "image/png",
+"sizes": "192x192"
+},
+{
+"src": "https://1.bp.blogspot.com/-_xnQjnH3FNI/X5YWTMDkX4I/AAAAAAAACxU/12WdDfvUaAgKAyGw-LoJKnYIDe4Kz1NVACLcBGAsYHQ/s0/android-chrome-512x512-min.png",
+"type": "image/png",
+"sizes": "512x512"
+}
+],
+"start_url": "https://aisatellite.blogspot.com/",
+"display": "standalone",
+"background_color": "#FFFFFF",
+"theme_color": "#624676"
+}
