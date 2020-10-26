@@ -16,8 +16,5 @@
   ],
   "start_url": "https://aisatellite.blogspot.com/",
   "background_color": "#ffffff",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "#ffffff",
-  
+  "theme_color": "#ffffff",  
 }
